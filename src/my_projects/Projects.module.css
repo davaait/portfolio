@@ -1,0 +1,17 @@
+.projectsWrapper {
+    display: flex;
+    align-items: center;
+    background-color: yellow;
+    height: 100vh;
+}
+
+.projectsBlock {
+    display: flex;
+    min-height: 80vh;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+    border: 1px solid;
+}

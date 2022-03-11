@@ -1,0 +1,16 @@
+.projectWrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 350px;
+    border: 1px solid;
+}
+
+.backWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+    background-color: #dddcea;
+}
