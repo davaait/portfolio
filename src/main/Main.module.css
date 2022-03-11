@@ -1,0 +1,26 @@
+.mainBlock {
+    background-color: #dddcea;
+    height: 100vh;
+}
+
+.innerMain {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.greeting {
+    margin: 0;
+    height: 150px;
+    width: 300px;
+    background-color: #9dad9d;
+}
+
+.mainImage {
+    width: 200px;
+    height: 300px;
+    background-color: lime;
+}
